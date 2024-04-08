@@ -216,7 +216,7 @@ class StartPage(tk.Frame):
         BigText1.pack()
         BigText2= tk.Label(self, text="Restaurant",fg='#581845', font='impact 80')
         BigText2.pack()
-        MadeBy = ttk.Label(self, text = 'Made By Abhyudaya Soni, XII-B', font='Helvetica 10')
+        MadeBy = ttk.Label(self, text = 'Made By Abhyudaya Soni', font='Helvetica 10')
         MadeBy.pack(side='bottom')
                 
 
